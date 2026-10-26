@@ -1,0 +1,1 @@
+A clean, semantic, and fully responsive single-page CV built purely using standard HTML5 and clean inline styling. This project demonstrates foundational web development principles, web accessibility standards, effective SEO implementation, Open Graph protocol integration, and cross-browser compatibility.
